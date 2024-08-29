@@ -1,3 +1,53 @@
+Android  internship at Codsoft involved the development of a To-Do list application, which was successfully completed using React Native.
+ home screen will showcase the number of tasks available. Users will have the ability to set UI tasks, task are created  with a title and description added. If we fail to write in  either the title or description field, an alert will notify us to fill in the missing information. Tasks displayed on the home screen can be effortlessly  created with click on "Plus botton" at the right end of scrren , edited, and marked as completed with a simple click on the respective task.
+
+OUTPUT:-
+
+
+![image](https://github.com/user-attachments/assets/83c2bb4b-15a9-4a70-a99c-e89f49302139)
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/5dda2839-dd36-426a-8baa-01019bd01d86)
+
+
+
+
+ Alert message to fill the fields:-
+
+
+ 
+
+![image](https://github.com/user-attachments/assets/ca65bd51-7155-4a98-bbea-973ad8638194)
+
+
+
+
+ To transition a completed task to the "in progress" status, one can simply click on the task:-
+
+ 
+ 
+ ![image](https://github.com/user-attachments/assets/c2156de3-870a-4b60-a4fd-b37b2825ef7c)
+
+
+ To transition a task to the completed field, we can simply click on the task:-
+
+ 
+ 
+ ![image](https://github.com/user-attachments/assets/899b0bd2-bf1c-4d65-abdf-836ad8eace31)
+
+
+
+ 
+
+
+
+ 
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
